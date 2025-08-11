@@ -33,7 +33,7 @@ A clean and responsive <strong>HTML</strong> & <strong>CSS</strong> portfolio pa
 
 <h2>🚀 Live Demo</h2>
 
-<p>🌐 View here: <a href="https://yousseftalaat-collab.github.io/Portfolio-Grid/" target="_blank">Live Project</a></p>
+<p>🌐 View here: <a href="https://yousseftalaat-collab.github.io/Personal-Website/" target="_blank">Live Project</a></p>
 <p>📂 GitHub Repo: <a href="https://github.com/Yousseftalaat-collab/Portfolio-Grid" target="_blank">Repository</a></p>
 
 <hr>
