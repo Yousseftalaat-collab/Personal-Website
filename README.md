@@ -1,4 +1,4 @@
-<h1 align="center">🖼️ Portfolio Grid</h1>
+<h1 align="center"> Portfolio Grid</h1>
 
 <p align="center">
 A clean and responsive <strong>HTML</strong> & <strong>CSS</strong> portfolio page displaying projects in a modern card layout. Includes tech stack tags and clickable social links, designed for both personal branding and showcasing work.
@@ -34,7 +34,7 @@ A clean and responsive <strong>HTML</strong> & <strong>CSS</strong> portfolio pa
 <h2>🚀 Live Demo</h2>
 
 <p>🌐 View here: <a href="https://yousseftalaat-collab.github.io/Personal-Website/" target="_blank">Live Project</a></p>
-<p>📂 GitHub Repo: <a href="https://github.com/Yousseftalaat-collab/Portfolio-Grid" target="_blank">Repository</a></p>
+<p>📂 GitHub Repo: <a href="https://github.com/Yousseftalaat-collab/Personal-Website/tree/main" target="_blank">Repository</a></p>
 
 <hr>
 
